@@ -17,9 +17,6 @@ include:
   - board: nice_nano_v2
     shield: corne_left
 
-  # Right nửa phụ (peripheral)
-  - board: nice_nano_v2
-    shield: corne_right
 
   # Right nửa chính (central, hoạt động độc lập qua USB/BLE)
   - board: nice_nano_v2
